@@ -1,4 +1,4 @@
-This api is modified due to custom datasets that doesn't have any class values, 
+This api is modified(only PythonAPI) due to custom datasets that doesn't have any class values, 
 So datasets without any class ids it just passes
 
 COCO API - http://cocodataset.org/
